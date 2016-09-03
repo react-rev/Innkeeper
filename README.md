@@ -20,7 +20,7 @@ This React application is an online classroom portal that incorporates various s
 - Wrote React components using JSX syntax and ES6 Classes
 - Developed Express web services to provide JSON and React components
 - Incorporated security using Passport running on Node
-- Wrote data access modules to access Oracle using NodeDriver
+- Wrote data access modules to access MongoDB using a NodeDriver
 - Configured WebPack to run on Node, for rapid development
 - Created unit tests with Jasmine and Karma
 
