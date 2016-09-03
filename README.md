@@ -11,6 +11,7 @@ This React application is an online classroom portal that incorporates various s
 - [Technologies](#technologies)
 - [Installation](#installation)
 - [Developers](#developers)
+- [License](#license)
 
 ### Responsibilities
 - Created a portal with React to provide features
@@ -62,3 +63,6 @@ The webhost will run on localhost:3000
 - Weston
 - Jon-Erik
 - Alex
+
+### License
+[MIT](https://github.com/react-rev/Innkeeper/blob/master/LICENSE)
