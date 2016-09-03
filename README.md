@@ -2,7 +2,7 @@
 React project for managing accomodation and reimbursement logistics
 
 # RLMS
-This React application is an online classroom portal that incorporates various service features.  It allows, students and trainers to interact within a course.  The environment is complete with React, Webpack, Babel, Express, and Node.
+This React application is an online logistics system that incorporates various service features.  It allows, admins and associates to interact within a facilities portal.  The environment is complete with React, Webpack, Babel, Express, and Node.
 
 ###### menu
 - [Description](#rlms)
