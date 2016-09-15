@@ -1,3 +1,5 @@
+NOTE: Project has changed to Angular and migrated to this repo [revature-js/innkeeper](https://github.com/revature-js/innkeeper)
+
 # Innkeeper
 React project for managing accomodation and reimbursement logistics
 
